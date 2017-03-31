@@ -1,0 +1,1 @@
+This project aims to provide an easy to use Python script/library to import dtstyle files into the SQLite database of darktable.
