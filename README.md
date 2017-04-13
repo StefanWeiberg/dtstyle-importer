@@ -1,1 +1,1 @@
-This project aims to provide an easy to use Python script/library to import dtstyle files into the SQLite database of darktable.
+This project aims to provide an easy to use Python script/library to import dtstyle files into the SQLite database of darktable. On top of that it will be packaged for Debian to support importing style packages like t3mujin's.
